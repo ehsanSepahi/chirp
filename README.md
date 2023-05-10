@@ -93,7 +93,7 @@ docker-compose exec php php artisan serve --host=0.0.0.0
 
 The chirp can be accessed at [http://localhost:8000](http://localhost:8000).
 
-## toDo Specification
+## chirp Specification
 
 In this guide we will walk through building a modern Laravel application from scratch. 
 You can login into system and make a chirp
