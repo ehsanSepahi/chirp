@@ -58,6 +58,11 @@ Start the local development server
 
 You can now access the server at http://localhost:8000
 
+in vps make sure you have activated the following item 
+
+    sudo a2enmod rewrite
+    systemctl restart apache2
+
 **TL;DR command list**
 
     git clone git@github.com:ehsanSepahi/chirp.git
